@@ -6,8 +6,8 @@ An end-to-end machine learning project that ingests 5 years of financial stateme
 
 ## 🚀 Live Dashboard
 
-> **[View Live Dashboard →](https://yourusername.github.io/financial-health-engine)**
-> *(Replace with your GitHub Pages URL after deploying)*
+> **[View Live Dashboard →](https://LomaniSino.github.io/financial-health-engine)**
+
 
 ---
 
@@ -114,7 +114,7 @@ financial-health-engine/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/financial-health-engine.git
+git clone https://github.com/LomaniSino/financial-health-engine.git
 cd financial-health-engine
 
 # 2. Create and activate virtual environment
