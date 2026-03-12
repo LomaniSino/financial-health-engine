@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/financial-health-engine/static/css/main.38025852.css",
+    "main.js": "/financial-health-engine/static/js/main.1a00875b.js",
+    "static/js/453.1deffb67.chunk.js": "/financial-health-engine/static/js/453.1deffb67.chunk.js",
+    "index.html": "/financial-health-engine/index.html",
+    "main.38025852.css.map": "/financial-health-engine/static/css/main.38025852.css.map",
+    "main.1a00875b.js.map": "/financial-health-engine/static/js/main.1a00875b.js.map",
+    "453.1deffb67.chunk.js.map": "/financial-health-engine/static/js/453.1deffb67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38025852.css",
+    "static/js/main.1a00875b.js"
+  ]
+}
